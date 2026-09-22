@@ -1,7 +1,0 @@
-{
-    "name": "Animerilz Repo",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Animerilz-scrapper/main/plugins.json"
-    ]
-}
