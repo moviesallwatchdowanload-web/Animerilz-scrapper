@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Animerilz",
+    "internalName": "Animerilz",
+    "description": "Animerilz - Anime in Hindi, Tamil, Telugu, English",
+    "version": 1,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Animerilz-scrapper",
+    "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Animerilz-scrapper/builds/AnimerulzProvider.cs3",
+    "jarUrl": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Animerilz-scrapper/builds/AnimerulzProvider.jar",
+    "fileSize": 0,
+    "fileHash": "",
+    "iconUrl": "https://animerulz.co.in/favicon.ico",
+    "authors": ["moviesallwatchdowanload-web"],
+    "language": "hi",
+    "tvTypes": ["Movie", "TvSeries", "Anime", "AsianDrama"],
+    "status": 1
+  }
+]
