@@ -1,0 +1,24 @@
+[
+    {
+        "iconUrl": "https://animerulz.co.in/favicon.ico",
+        "fileHash": "sha256-bd8bb305bbe99cca4160658a392c8e685713e429969d6dec1675e12cbfe92f6c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/moviesallwatchdowanload-web/Animerilz-scrapper",
+        "fileSize": 28449,
+        "status": 1,
+        "authors": [
+            "moviesallwatchdowanload-web"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "AnimerulzProvider",
+        "description": "Animerulz - Anime in Hindi, Tamil, Telugu, English",
+        "url": "https://raw.githubusercontent.com/moviesallwatchdowanload-web/Animerilz-scrapper/builds/AnimerulzProvider.cs3",
+        "name": "AnimerulzProvider"
+    }
+]
